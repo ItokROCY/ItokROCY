@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile</h1>
 <h3 align="center">Currenly still learn something new 👍</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itokrocy&show_icons=true&locale=en" alt="itokrocy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itokrocy&theme=great-gatsby&show_icons=true&locale=en" alt="itokrocy" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
