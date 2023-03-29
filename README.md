@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my github profile</h1>
 <!---<h3 align="center">Currenly still learning something new 👍</h3>--->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itokrocy&theme=great-gatsby&show_icons=true&locale=en" alt="itokrocy" /></p>
-
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itokrocy&theme=great-gatsby&show_icons=true&locale=en" alt="itokrocy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItokROCY&theme=great-gatsby" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bessotu-itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bessotu-itok/" height="30" width="40" /></a>
