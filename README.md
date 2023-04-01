@@ -7,8 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bessotu-itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bessotu-itok/" height="30" width="40" /></a>
-<a href="https://t.me/Bessotu_itok/" target"blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Telegram_2019_simple_logo.svg/800px-Telegram_2019_simple_logo.svg.png" alt="https://t.me/Bessotu_itok/" height="40" width="40" /></a>
+<a href="https://t.me/Bessotu_itok/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Telegram_2019_simple_logo.svg/800px-Telegram_2019_simple_logo.svg.png" alt="https://t.me/Bessotu_itok/" height="35" width="35" /></a>
+<a href="https://monkeytype.com/profile/ItokROCY/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1430886941189230595/RS0odgx9_400x400.jpg" alt="https://monkeytype.com/profile/ItokROCY" height="40" width="40" /></a>
+  
 </p>
 
 <h3 align="left">What I currenly learn and interested at:</h3>
