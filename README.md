@@ -1,8 +1,8 @@
 <!---<h1 align="center">Welcome to my github profile</h1>--->
 <!---<h3 align="center">Currenly still learning something new 👍</h3>--->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itokrocy&theme=great-gatsby&show_icons=true&locale=en" alt="itokrocy" height="245"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItokROCY&theme=great-gatsby" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itokrocy&theme=great-gatsby&show_icons=true&locale=en" alt="itokrocy" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItokROCY&theme=great-gatsby" height="200"/>
 <!-- <img align="center"src="https://github-profile-trophy.vercel.app/?username=ItokROCY&no-frame=false&no-bg=true&margin-w=4" /> -->
 </p>
 
