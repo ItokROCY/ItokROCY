@@ -9,9 +9,9 @@
 <h3 align="center">Connect and know me more</h3>
 <p align="center">
 <div align="center"> 
-<a align="center" href="https://www.linkedin.com/in/bessotu-itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bessotu-itok/" height="30" width="40" /></a>
-<a align="center" href="https://t.me/Bessotu_itok/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Telegram_2019_simple_logo.svg/800px-Telegram_2019_simple_logo.svg.png" alt="https://t.me/Bessotu_itok/" height="35" width="35" /></a>
-<a align="center" href="https://monkeytype.com/profile/ItokROCY/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled-256.png?v=1675597498781" alt="https://monkeytype.com/profile/ItokROCY" height="40" width="40" /></a>
+<a align="center" href="https://www.linkedin.com/in/bessotu-itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/LinkedIn.png" alt="https://www.linkedin.com/in/bessotu-itok/" height="75" width="75" /></a>
+<a align="center" href="https://t.me/Bessotu_itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/Telegram.png" alt="https://t.me/Bessotu_itok/" height="75" width="75" /></a>
+<a align="center" href="https://monkeytype.com/profile/ItokROCY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/monketype.png" alt="https://monkeytype.com/profile/ItokROCY" height="75" width="75" /></a>
   </div> 
 </p>
 
