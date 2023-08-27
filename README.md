@@ -6,7 +6,7 @@
 <!-- <img align="center"src="https://github-profile-trophy.vercel.app/?username=ItokROCY&no-frame=false&no-bg=true&margin-w=4" /> -->
 </p>
 
-<h3 align="center">Connect and Know Me More</h3>
+<h3 align="center">Connect and know me more at: </h3>
 <p align="center">
 <div align="center"> 
 <a align="center" href="https://www.linkedin.com/in/bessotu-itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/Linkedin-1.png" alt=https://www.linkedin.com/in/bessotu-itok/" height="75" width="75" /></a>
