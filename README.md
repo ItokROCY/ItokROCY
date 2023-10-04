@@ -10,9 +10,11 @@
 <p align="center">
 <div align="center"> 
 <a align="center" href="https://www.linkedin.com/in/bessotu-itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/Linkedin-1.png" alt=https://www.linkedin.com/in/bessotu-itok/" height="75" width="75" /></a>
+<a align="center" href=mailto::contact.bessotu@gmail.com target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource/main/icon/mail-1.png" alt="email to contact.bessotu@gmail.com" height="75" width="75" /></a>
 <a align="center" href="https://t.me/Bessotu_itok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/Telegram-1.png" alt="https://t.me/Bessotu_itok/" height="75" width="75" /></a>
 <a align="center" href="https://monkeytype.com/profile/ItokROCY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ItokROCY/Resource-rsc/main/icon/Monkeytype-1.png" alt="https://monkeytype.com/profile/ItokROCY" height="75" width="75" /></a>
 
+  
   </div> 
 </p>
 
